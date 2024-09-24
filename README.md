@@ -1,6 +1,6 @@
 # search-by-example
 
-A [Factor](https://factorcode.org) vocabulary for "searching by example", a la the [similar functionality](https://www.youtube.com/watch?v=HOuZyOKa91o) in [Pharo](https://pharo.org/).
+A [Factor](https://factorcode.org) vocabulary for "searching by example", a la the [similar functionality](https://www.youtube.com/watch?v=HOuZyOKa91o&t=304) in [Pharo](https://pharo.org/).
 
 ## Synopsis
 
